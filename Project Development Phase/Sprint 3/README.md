@@ -1,1 +1,1 @@
-This directory contains the code for sprint 2.
+This directory contains the code for sprint 3.
